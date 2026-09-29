@@ -8,6 +8,12 @@
 
 ---
 
+### ლექცია 2 — Nodal Analysis
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1J12XxvZB0YwHByB_FybyJjYZol-GQCEe/view?usp=drive_link)
+- 📝 დავალება: წაიკითხეთ თავები 3.1, 3.2 და 3.3.
+- 📝 ამოხსენით ამოცანები: თავი 3 — 2, 3, 5, 6, 8, 9, 10, 12, 15, 16, 18, 22, 25, 30, 31, 32;
+
 ### ლექცია 1 — შესავალი ელექტრულ წრედებში: მუხტი, დენი, ძაბვა. ომის კანონი. კირჰოფის კანონი. პარალელური და მიმდევრობითი ჩართვები
 
 - 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1eiCvf0jo_090exvGc3cNgI5EYJuLg8CX/view?usp=drive_link)
