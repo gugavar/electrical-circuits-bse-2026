@@ -7,6 +7,11 @@
 - 🧪 [Multisim — წრედების სიმულირება](https://www.multisim.com/)
 
 ---
+### ლექცია 3 — Mesh Analysis
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1PJS_AIVDIcn0bCs_1VEAO4ILmjxVlUFm/view?usp=drive_link)
+- 📝 დავალება: წაიკითხეთ თავები 3.4, 3.5, 3.6 და 3.7.
+- 📝 ამოხსენით ამოცანები: თავი 3 — 41, 43, 44, 50, 58, 61, 64, 66, 67, 70, 72, 74;
 
 ### ლექცია 2 — Nodal Analysis
 
