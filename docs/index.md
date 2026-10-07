@@ -7,6 +7,12 @@
 - 🧪 [Multisim — წრედების სიმულირება](https://www.multisim.com/)
 
 ---
+### ლექცია 4 — წრედების თეორემები: წრფივობა, სუპერპოზიცია და თევენინის თეორემა
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/11rMEkQ2KmY9s4ZKKZVMwYkLoQba5fsq0/view?usp=drive_link)
+- 📝 დავალება: წაიკითხეთ თავები 4.1, 4.2, 4.3, 4.4 და 4.5.
+- 📝 ამოხსენით ამოცანები: თავი 4 — 3, 11, 12, 15, 19, 26, 30, 33, 36, 38, 40, 42, 45;
+
 ### ლექცია 3 — Mesh Analysis
 
 - 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1PJS_AIVDIcn0bCs_1VEAO4ILmjxVlUFm/view?usp=drive_link)
