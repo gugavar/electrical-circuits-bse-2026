@@ -7,6 +7,13 @@
 - 🧪 [Multisim — წრედების სიმულირება](https://www.multisim.com/)
 
 ---
+### ლექცია 5 — წრედების თეორემები: ნორტონის თეორემა
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1-2uMyqByBAwClK8wHvrG9519ueMwDGLo/view?usp=drive_link)
+- 📝 დავალება: წაიკითხეთ თავები 4.6, 4.7 და 4.8.
+- 📝 ამოხსენით ამოცანები: თავი 4 — 44, 47, 48, 56, 57, 60, 63, 64, 71, 72;
+- 📚 [წინა წლის შუალედური](https://docs.google.com/document/d/14qQJapI0uixVDhdo1lp61xpItqlz-vjP/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link)
+
 ### ლექცია 4 — წრედების თეორემები: წრფივობა, სუპერპოზიცია და თევენინის თეორემა
 
 - 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/11rMEkQ2KmY9s4ZKKZVMwYkLoQba5fsq0/view?usp=drive_link)
