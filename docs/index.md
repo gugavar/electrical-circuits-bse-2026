@@ -9,7 +9,7 @@
 ---
 ### ლექცია 6 — კონდენსატორები და ინდუქტორები
 
-- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1YVu7fhKoK3m9AyZNVK9QCELSkBieGCTn/view?usp=drive_link)
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1o01H0-M5bAww94ESY6tB114Vd__gfwTC/view?usp=drive_link)
 - 📝 დავალება: წაიკითხეთ თავები 6.1, 6.2, 6.3, 6.4 და 6.5.
 - 📝 ამოხსენით ამოცანები: თავი 6 — 5, 6, 7, 8, 10, 11, 13, 17, 21, 25, 30, 31, 40, 42, 45, 46, 55, 58, 57, 59, 60, 64;
 
