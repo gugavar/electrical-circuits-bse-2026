@@ -7,6 +7,13 @@
 - 🧪 [Multisim — წრედების სიმულირება](https://www.multisim.com/)
 
 ---
+### ლექცია 7 — პირველი რიგის წრედები
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1soElhJOTx04PV9kND34rHj8mydjw_p3A/view?usp=drive_link)
+- 📝 დავალება: წაიკითხეთ თავები 7.1, 7.2 და 7.3.
+- 📝 ამოხსენით ამოცანები: თავი 7 — 1, 2, 4, 6, 7, 8, 9, 10, 11, 13, 15, 17, 18, 19, 20, 23;
+
+
 ### ლექცია 6 — კონდენსატორები და ინდუქტორები
 
 - 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1o01H0-M5bAww94ESY6tB114Vd__gfwTC/view?usp=drive_link)
