@@ -7,6 +7,9 @@
 - 🧪 [Multisim — წრედების სიმულირება](https://www.multisim.com/)
 
 ---
+- 📚 [წინა წლის შუალედური 2](https://docs.google.com/document/d/1zCrvMNUBAXsIRulyr-qyj9BAPT_wjW34/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link)
+
+
 ### ლექცია 9 — ფაზორები და დამყარებული მდგომარეობის (steady state) AC წრედები
 
 - 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1Vwe7atz6rc_oFI0DbhJdPi1QRQUTnz54/view?usp=drive_link)
