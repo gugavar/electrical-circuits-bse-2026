@@ -12,7 +12,7 @@
 
 ### ლექცია 9 — ფაზორები და დამყარებული მდგომარეობის (steady state) AC წრედები
 
-- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1Vwe7atz6rc_oFI0DbhJdPi1QRQUTnz54/view?usp=drive_link)
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/19_CTPMfoXFTw98ZYbKoBkutspYRFqbOp/view?usp=drive_link)
 - 📝 დავალება: წაიკითხეთ თავები 9.1–9.5, 9.7 და 10.1–10.4.
 - 📝 ამოხსენით ამოცანები:
   - თავი 9 — 12, 18, 19, 20, 23, 25, 41, 42, 52, 60, 70, 77, 79, 80;
