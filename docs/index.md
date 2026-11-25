@@ -7,6 +7,15 @@
 - 🧪 [Multisim — წრედების სიმულირება](https://www.multisim.com/)
 
 ---
+
+### ლექცია 10 — AC წრედების გარდაქმნა თევენინის და ნორტონის ექვივალენტებად, სიმძლავრე AC წრედებში
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1M-3WYQamLH7QOVw6T1UBOPzWyJGYSGK_/view?usp=drive_link)
+- 📝 დავალება: წაიკითხეთ თავები 10.5, 10.6 და 11.1–11.4.
+- 📝 ამოხსენით ამოცანები:
+  - თავი 10 — 3, 6, 7, 8, 9, 19, 20, 22, 28, 32, 38, 40, 43, 47, 60, 61, 62, 63, 64, 67;
+  - თავი 11 — 1, 2, 3, 5, 6, 7, 13, 19, 20.
+
 - 📚 [წინა წლის შუალედური 2](https://docs.google.com/document/d/1zCrvMNUBAXsIRulyr-qyj9BAPT_wjW34/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link)
 
 
